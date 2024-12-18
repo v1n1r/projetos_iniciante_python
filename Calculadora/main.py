@@ -43,6 +43,8 @@ def entrar_valores(event):
   
     #passando valor para tela
     valor_texto.set(todos_valores)
+
+
     
 
        
